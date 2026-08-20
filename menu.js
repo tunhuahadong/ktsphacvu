@@ -47,5 +47,14 @@ document.write(`
         
         <li><a href="https://tunhuahadong.io.vn" target="_blank" style="color: #f1c40f;">Trang Chủ Xưởng (TNHĐ)</a></li>
     </ul>
+    document.addEventListener("DOMContentLoaded", function() {
+    // Tự động dò quét toàn bộ link CTA đang hướng về domain cũ dính Sandbox
+    var localLinks = document.querySelectorAll('a[href*="tunhuahadong.io.vn"]');
+    localLinks.forEach(function(link) {
+        // Ép hệ thống tự động đổi đích đến sang tên miền ngâm 1 năm tunhua.io.vn
+        link.href = link.href.replace('tunhuahadong.io.vn', 'tunhua.io.vn');
+    });
+});
+
 </nav>
 `);
