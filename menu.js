@@ -20,7 +20,7 @@ document.write(`
         
         <!-- 1. Danh mục Tủ Quần Áo & Giường -->
         <li>
-            <a href="https://tunhuahadong.github.io/ktsphacvu/du-an/tu-nhua-quan-ao/">Tủ Nhựa Quần Áo ▾</a>
+            <a href="https://github.io">Tủ Nhựa Quần Áo ▾</a>
             <ul>
             
             </ul>
@@ -28,22 +28,22 @@ document.write(`
 
         <!-- 2. Danh mục Tủ Cầu Thang -->
         <li>
-            <a href="https://tunhuahadong.github.io/ktsphacvu/du-an/tu-cau-thang-nhua/">Tủ Cầu Thang ▾</a>
+            <a href="https://github.io">Tủ Cầu Thang ▾</a>
             <ul>
-                <li><a href="https://tunhuahadong.github.io/ktsphacvu/du-an/tu-cau-thang-nhua/anh-quan-kdt-van-phu/">Công trình Anh Quân (KĐT Văn Phú)</a></li>
+                <li><a href="https://github.ioanh-quan-kdt-van-phu/">Công trình Anh Quân (KĐT Văn Phú)</a></li>
             </ul>
         </li>
 
         <!-- 3. Danh mục Tủ Giày -->
         <li>
-            <a href="https://tunhuahadong.github.io/ktsphacvu/du-an/tu-giay-nhua/">Tủ Giày Nhựa ▾</a>
+            <a href="https://github.io">Tủ Giày Nhựa ▾</a>
             <ul>
 
             </ul>
         </li>
 
         <!-- 4. Danh mục Tủ Bếp -->
-        <li><a href="https://tunhuahadong.github.io/ktsphacvu/du-an/tu-bep-nhua/">Tủ Bếp Nhựa</a></li>
+        <li><a href="https://github.io">Tủ Bếp Nhựa</a></li>
         
         <li><a href="https://tunhuahadong.io.vn" target="_blank" style="color: #f1c40f;">Trang Chủ Xưởng (TNHĐ)</a></li>
     </ul>
