@@ -47,16 +47,13 @@ document.write(`
         
         <li><a href="https://tunhuahadong.io.vn" target="_blank" style="color: #f1c40f;">Trang Chủ Xưởng (TNHĐ)</a></li>
     </ul>
-    document.addEventListener("DOMContentLoaded", function() {
-
-
 </nav>
 `);
-// Đặt ngoài chuỗi HTML để trình duyệt thực thi lệnh bẻ hướng
+
+// Định vị và xử lý thay đổi liên kết ngầm sau khi HTML được render xong
 setTimeout(function() {
     var localLinks = document.querySelectorAll('a[href*="tunhuahadong.io.vn"]');
     localLinks.forEach(function(link) {
         link.href = link.href.replace('tunhuahadong.io.vn', 'tunhua.io.vn');
     });
 }, 300);
-
