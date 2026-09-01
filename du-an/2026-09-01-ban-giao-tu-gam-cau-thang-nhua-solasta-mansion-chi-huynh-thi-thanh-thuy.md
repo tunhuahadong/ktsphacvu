@@ -75,7 +75,7 @@ Chiều 1/9, nhìn ra đường thấy lác đác xe cộ bắt đầu nối đu
 
 Hiểu được tâm tư của người con phương Nam mới làm dâu Bắc, tôi lập tức chỉ đạo đội ngũ kỹ thuật tại xưởng Tủ Nhựa Hà Đông (ngõ 115 Chiến Thắng) bốc xếp toàn bộ hệ module tủ gầm cầu thang nhựa đã gia công CNC chuẩn xác lên xe trung chuyển tới ngay phân khu Solasta Mansion.
 
-![Tủ gầm cầu thang nhựa phòng khách cao cấp lắp đặt tại biệt thự Solasta Mansion KĐT Dương Nội](https://tunhua.io.vn/wp-content/uploads/2026/03/Tu-gam-cau-thang-nhua-phong-khach-HD-TCT05.webp)
+![Tủ gầm cầu thang nhựa phòng khách cao cấp lắp đặt tại biệt thự Solasta Mansion KĐT Dương Nội](https://tunhua.io.vn/wp-content/uploads/2026/05/Tu-gam-cau-thang-nhua-Vincoplast-dep-HD-TCT04-225x300.webp)
 *Hệ tủ gầm cầu thang nhựa cao cấp phối màu vân gỗ óc chó kết hợp đèn LED sang trọng lắp hoàn thiện cho chị Thủy chiều 1/9/2026.*
 
 ## 2. Bề thế không gian biệt thự Solasta Mansion KĐT Dương Nội
