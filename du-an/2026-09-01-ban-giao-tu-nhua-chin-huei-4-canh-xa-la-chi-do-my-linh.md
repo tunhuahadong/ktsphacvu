@@ -5,7 +5,7 @@ date: 2026-09-01 09:30:00 +0700
 categories: [Du An, Tủ Nhựa Quần Áo]
 tags: [tủ nhựa chinhuei 4 cánh, tủ nhựa đài loan chinhuei, tủ nhựa quần áo người lớn, khu đô thị xa la, kiến hưng, hà đông, kts phác vũ]
 description: "Nhật ký KTS Phác Vũ sáng 1/9 đầu tháng mới: Chuyến giao tủ quần áo nhựa Đài Loan Chinhuei 4 cánh HD-TA35 cho chị Đỗ Mỹ Linh tại CT1-B1 KĐT Xa La, Kiến Hưng, Hà Đông."
-image: "https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-tien-dung-Chin-Huei-HD%E2%80%93TA28-600x610.webp"
+image: "[https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-tien-dung-Chin-Huei-HD%E2%80%93TA28-600x610.webp](https://tunhua.io.vn/wp-content/uploads/2026/02/Tu-nhua-quan-ao-4-canh-2-buong-nhua-Chin-Huei-HD%E2%80%93TA45.webp)"
 ---
 
 <script type="application/ld+json">
@@ -14,7 +14,7 @@ image: "https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-t
   "@type": "BlogPosting",
   "headline": "Nhật Ký KTS Phác Vũ Sáng 1/9: Bàn Giao Tủ Quần Áo Nhựa Chinhuei 4 Cánh Cho Chị Đỗ Mỹ Linh Tại KĐT Xa La",
   "image": [
-    "https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-tien-dung-Chin-Huei-HD%E2%80%93TA28-600x610.webp"
+    "https://tunhua.io.vn/wp-content/uploads/2026/02/Tu-nhua-quan-ao-4-canh-2-buong-nhua-Chin-Huei-HD%E2%80%93TA45.webp"
   ],
   "datePublished": "2026-09-01T09:30:00+07:00",
   "dateModified": "2026-09-01T09:30:00+07:00",
@@ -65,7 +65,7 @@ Tiếp nối chuyến bàn giao tủ giày nhựa Đài Loan cho anh Quang Hùng
 
 Chuyến xe của Tủ Nhựa Hà Đông lăn bánh vượt quãng đường 2.5km tới căn hộ chung cư tòa CT1-B1 Khu đô thị Xa La (phường Kiến Hưng, quận Hà Đông cũ, Hà Nội). Sản phẩm bàn giao là mẫu [tủ nhựa quần áo Đài Loan Chinhuei 4 cánh](https://tunhua.io.vn/tu-nhua-quan-ao-dai-loan-chin-huei-4-canh/) cao cấp phối màu ghi xám hiện đại, lắp đặt tận tay gia đình chị Đỗ Mỹ Linh.
 
-![Tủ nhựa quần áo Đài Loan Chinhuei 4 cánh phối ghi xám hiện đại bàn giao cho chị Đỗ Mỹ Linh](https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-tien-dung-Chin-Huei-HD%E2%80%93TA28-600x610.webp)
+![Tủ nhựa quần áo Đài Loan Chinhuei 4 cánh phối ghi xám hiện đại bàn giao cho chị Đỗ Mỹ Linh]([https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-tien-dung-Chin-Huei-HD%E2%80%93TA28-600x610.webp](https://tunhua.io.vn/wp-content/uploads/2026/02/Tu-nhua-quan-ao-4-canh-2-buong-nhua-Chin-Huei-HD%E2%80%93TA45.webp))
 *Mẫu tủ quần áo nhựa Đài Loan Chinhuei 4 cánh màu ghi xám phối tay nắm đố vàng sang trọng được cân chỉnh hoàn thiện cho chị Đỗ Mỹ Linh sáng 1/9/2026.*
 
 ## 1. Hành trình 2.5km Xa La thong dong ngày đầu tháng mới & nghỉ lễ thứ 4
