@@ -65,7 +65,7 @@ Nối tiếp chuyến [bàn giao tủ nhựa Chin-Huei 3 cánh cho bạn Hòa Mi
 
 Khách hàng lần này là bạn **Erik** – người bạn thân học cùng cấp 3 với Hòa Minzy. Trong đợt tuyển sinh đại học vừa qua, Erik đã xuất sắc trúng tuyển ngành Thiết kế đồ họa, còn Hòa Minzy đỗ ngành Marketing tại Đại học Đại Nam ngay gần đó. Hai bạn trẻ đã cùng nhau tìm thuê căn phòng trọ ấm cúng tại ngõ 5 phố Xốm để thuận tiện cho việc học tập suốt những năm tháng sinh viên sắp tới.
 
-![Tủ nhựa quần áo 3 cánh 1 kệ Chin-Huei HD-TACH37 màu sồi](https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-1-ke-nhua-Dai-Loan-Chin-Huei-HD-TACH37-mau-soi-600x637.webp)
+![Tủ nhựa quần áo 3 cánh 1 kệ Chin-Huei HD-TACH37 màu sồi](https://tunhua.io.vn/wp-content/uploads/2026/04/Tu-nhua-quan-ao-3-canh-1-ke-nhua-Dai-Loan-Chin-Huei-HD-TACH37-mau-soi-600x721.webp)
 
 *Mẫu tủ nhựa quần áo 3 cánh 1 kệ Chin-Huei HD-TACH37 màu vân gỗ sồi ấm áp bàn giao cho bạn Erik sáng 7/9/2026.*
 
